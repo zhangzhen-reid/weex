@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
                    A framework for building Mobile cross-platform UI
                    DESC
 
-  s.homepage     = "https://github.com/apache/incubator-weex"
+  s.homepage     = "https://github.com/zhangzhen-reid/weex.git"
   s.license = {
     :type => 'Apache-2.0'
   }
@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
 
   # use for public
   # s.source =  {
-  #  :git => 'https://github.com/apache/incubator-weex.git',
+  #  :git => 'https://github.com/zhangzhen-reid/weex.git',
   #  :tag => #{s.version}
   # }
 
